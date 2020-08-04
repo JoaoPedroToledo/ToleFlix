@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Post Malone",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Sunflower",
+        "url": "https://www.youtube.com/watch?v=ApXoWvfEYVU"
+      },
+      "videos": [
+        {
+          "titulo": "Mágico de Oz · Racionais Mc's ",
+          "url": "https://www.youtube.com/watch?v=ZdimhAt75QA"
+        },
+        {
+          "titulo": "Post Malone - Circles",
+          "url": "https://www.youtube.com/watch?v=wXhTHyIgQ_U"
+        },
+        {
+          "titulo": "Post Malone - Congratulations",
+          "url": "https://www.youtube.com/watch?v=SC4xMk98Pdc"
+        },
+        {
+          "titulo": "Post Malone - GoodByes",
+          "url": "https://www.youtube.com/watch?v=S4asq3SicN0"
+        },
+        {
+          "titulo": "Post Malone - Take What You Want (Audio) ft. Ozzy Osbourne, Travis Scott",
+          "url": "https://www.youtube.com/watch?v=LYa_ReqRlcs"
+        },
+        {
+          "titulo": "Post Malone - Hollywood's Bleeding",
+          "url": "https://www.youtube.com/watch?v=H-IHMQZkFVQ"
+        },
+        {
+          "titulo": "Post Malone - Wow",
+          "url": "https://www.youtube.com/watch?v=393C3pr2ioY"
+        },
+        {
+          "titulo": "Post Malone - Psycho",
+          "url": "https://www.youtube.com/watch?v=au2n7VVGv_c"
+        }        
+      ]
+    },
+    {
+      "titulo": "Travis Scott",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Goosebumps",
+        "url": "https://www.youtube.com/watch?v=9mahKFNuHqM"
+      },
+      "videos": [
+        {
+          "titulo": "Highest in the Room",
+          "url": "https://www.youtube.com/watch?v=Gs5WlUzk_Ec"
+        },
+        {
+          "titulo": "Sicko Mode",
+          "url": "https://www.youtube.com/watch?v=NQbkGDoD7B0"
+        },
+        {
+          "titulo": "The Scotts",
+          "url": "https://www.youtube.com/watch?v=sw4r0k8WWqU"
+        },
+        {
+          "titulo": "Stargazing",
+          "url": "https://www.youtube.com/watch?v=2a8PgqWrc_4"
+        }, 
+        {
+          "titulo": "Butterfly Effect",
+          "url": "https://www.youtube.com/watch?v=_EyZUTDAH0U"
+        }
+      ]
+    },
+    {
+      "titulo": "Drake",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "God's Plan",
+        "url": "https://www.youtube.com/watch?v=xpVfcZ0ZcFM"
+      },
+      "videos": [
+        {
+          "titulo": "In My Feelings",
+          "url": "https://www.youtube.com/watch?v=xpVfcZ0ZcFM"
+        },
+        {
+          "titulo": "Toosie Slide",
+          "url": "https://www.youtube.com/watch?v=xWggTb45brM"
+        },
+        {
+          "titulo": "Life is Good",
+          "url": "https://www.youtube.com/watch?v=l0U7SxXHkPY"
+        },
+        {
+          "titulo": "Nonstop",
+          "url": "https://www.youtube.com/watch?v=XNpGNykVZ6U"
+        }
+      ]
+    },
+    {
+      "titulo": "Racionais - Sobrevivendo no Inferno",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Capitulo 4, Versículo 3",
+          "url": "https://www.youtube.com/watch?v=2LQSFLTiwS8"
+        },
+        {
+          "titulo": "Qual Mentira Vou Acreditar?",
+          "url": "https://www.youtube.com/watch?v=XTHzI1TJpWM"
+        },
+        {
+          "titulo": "Fórmula Mágica da Paz",
+          "url": "https://www.youtube.com/watch?v=ewHxfBtNC8E"
+        },
+        {
+          "titulo": "Diário de um Detento",
+          "url": "https://www.youtube.com/watch?v=dGFxdmuDA4A"
+        }
+      ]
+    },
+    {
+      "titulo": "Racionais",
+      "cor": "red",
+      "link_extra": {
+        "text": "Nada como um dia após o outro",
+        "url": "https://www.youtube.com/watch?v=eRUa-1kTvT4"
+      },
+      "videos": [
+        {
+          "titulo": "Jesus Chorou",
+          "url": "https://www.youtube.com/watch?v=ryP3ZvRPJhY"
+        },
+        {
+          "titulo": "Vida Loka Parte 1",
+          "url": "https://www.youtube.com/watch?v=IL1epaZCTmk"
+        },
+        {
+          "titulo": "Vida Loka parte 2",
+          "url": "https://www.youtube.com/watch?v=Ef6dPbX8NuE"
+        },
+        {
+          "titulo": "A vida é desafio",
+          "url": "https://www.youtube.com/watch?v=PQin7NsK7SM"
+        },
+        {
+          "titulo": "Expresso da Meio-Noite",
+          "url": "https://www.youtube.com/watch?v=Rhat94OkqOw"
+        }
+      ]
+    },
+    {
+      "titulo": "Eminem",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Lose Yourself",
+        "url": "https://www.youtube.com/watch?v=_Yhyp-_hX2s"
+      },
+      "videos": [
+        {
+          "titulo": "Without Me",
+          "url": "https://www.youtube.com/watch?v=YVkUvmDQ3HY"
+        },
+        {
+          "titulo": "Rap God",
+          "url": "https://www.youtube.com/watch?v=XbGs_qK2PQA"
+        },
+        {
+          "titulo": "Till I Colapse",
+          "url": "https://www.youtube.com/watch?v=ytQ5CYE1VZw"
+        },
+        {
+          "titulo": "The Real Slim Shady",
+          "url": "https://www.youtube.com/watch?v=eJO5HU_7_1w"
+        },
+        {
+          "titulo": "My Name Is",
+          "url": "https://www.youtube.com/watch?v=sNPnbI1arSE"
+        }
+      ]
+    }
+  ]
+}
