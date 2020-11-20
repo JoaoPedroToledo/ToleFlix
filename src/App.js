@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Mágico de Oz é um lamento de fuga e desespero de alguém que se entrega às drogas para esquecer os problemas."}
+        videoDescription={"Escrita por Edi Rock, a irônica Mágico de Oz é um lamento de fuga e desespero de alguém que se entrega às drogas para esquecer os problemas."}
       />
 
       <Carousel
